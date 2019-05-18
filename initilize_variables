@@ -1,0 +1,8 @@
+x=1234                    #integer
+x=123.34                  #float
+x='hellO'                  #string
+x=[1,2,3'd']              #list
+x=(0,1,2)                  #tuple
+x=open('hello','r')         #open file in read mode
+x=(9,)                     #single value in tuple
+x=y=z=1                     #single value in several variables
